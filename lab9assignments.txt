@@ -1,0 +1,107 @@
+To, Location
+Din[0], PIN_N25
+Din[1], PIN_N26
+Din[2], PIN_P25
+Din[3], PIN_AE14
+Din[4], PIN_AF14
+Din[5], PIN_AD13
+Din[6], PIN_AC13
+Din[7], PIN_C13
+Din[8], PIN_B13
+Din[9], PIN_A13
+Din[10], PIN_N1
+Din[11], PIN_P1
+Din[12], PIN_P2
+Din[13], PIN_T7
+Din[14], PIN_U3
+Din[15], PIN_U4
+reset, PIN_V1
+run, PIN_V2
+
+clock, PIN_W26
+
+bus[0], PIN_AE23
+bus[1], PIN_AF23
+bus[2], PIN_AB21
+bus[3], PIN_AC22
+bus[4], PIN_AD22
+bus[5], PIN_AD23
+bus[6], PIN_AD21
+bus[7], PIN_AC21
+bus[8], PIN_AA14
+bus[9], PIN_Y13
+bus[10], PIN_AA13
+bus[11], PIN_AC14
+bus[12], PIN_AD15
+bus[13], PIN_AE15
+bus[14], PIN_AF13
+bus[15], PIN_AE13
+
+done, PIN_AD12
+
+counter[0], PIN_AE22
+counter[1], PIN_AF22
+
+seg0[6], PIN_AF10
+seg0[5], PIN_AB12
+seg0[4], PIN_AC12
+seg0[3], PIN_AD11
+seg0[2], PIN_AE11
+seg0[1], PIN_V14
+seg0[0], PIN_V13
+
+seg1[6], PIN_V20
+seg1[5], PIN_V21
+seg1[4], PIN_W21
+seg1[3], PIN_Y22
+seg1[2], PIN_AA24
+seg1[1], PIN_AA23
+seg1[0], PIN_AB24
+
+seg2[6], PIN_AB23
+seg2[5], PIN_V22
+seg2[4], PIN_AC25
+seg2[3], PIN_AC26
+seg2[2], PIN_AB26
+seg2[1], PIN_AB25
+seg2[0], PIN_Y24
+
+seg3[6], PIN_Y23
+seg3[5], PIN_AA25
+seg3[4], PIN_AA26
+seg3[3], PIN_Y26
+seg3[2], PIN_Y25
+seg3[1], PIN_U22
+seg3[0], PIN_W24
+
+seg4[6], PIN_U9
+seg4[5], PIN_U1
+seg4[4], PIN_U2
+seg4[3], PIN_T4
+seg4[2], PIN_R7
+seg4[1], PIN_R6
+seg4[0], PIN_T3
+
+seg5[6], PIN_T2
+seg5[5], PIN_P6
+seg5[4], PIN_P7
+seg5[3], PIN_T9
+seg5[2], PIN_R5
+seg5[1], PIN_R4
+seg5[0], PIN_R3
+
+seg6[6], PIN_R2
+seg6[5], PIN_P4
+seg6[4], PIN_P3
+seg6[3], PIN_M2
+seg6[2], PIN_M3
+seg6[1], PIN_M5
+seg6[0], PIN_M4
+
+seg7[6], PIN_L3
+seg7[5], PIN_L2
+seg7[4], PIN_L9
+seg7[3], PIN_L6
+seg7[2], PIN_L7
+seg7[1], PIN_P9
+seg7[0], PIN_N9
